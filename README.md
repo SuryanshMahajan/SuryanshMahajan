@@ -6,7 +6,7 @@
 
 <h3 align="center">Exploring the crossroads of Code 🧠 & Security 🔐</h3>
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4F8EF7;">Aditya Yadav</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4F8EF7;">Suryansh Mahajan</span></h1>
 <h3 align="center">💻 Cybersecurity Enthusiast & Ethical Hacker | ⚛️ React Developer | 🔒 Exploring the Intersection of Code & Security</h3>
 
 ---
